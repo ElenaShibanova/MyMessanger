@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pMacOAWiRsgQcngoFUSELSBb8Ilcm9aDjRLzy0NaAAEEjFOS60DdFH66U6UgqqHexA9RLzlM5uViyRvzD1fmaQ==",
+  "dgSpecHash": "OUi+H+MhfK9ldntn5pkh3wwM/rQoOJWTy+69CPcYQHsbCDyxt47RiiVYRbqvSMDdM1tWIPpRXLhDnaI+1lG24Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\MyMessanger\\ConsoleClient\\MyMessanger.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\MyMessanger\\MyMessanger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
